@@ -60,4 +60,4 @@ void set_bg_color(int color)
 {// ESC[#m
     printf("\033[%dm",(color+10));
     fflush(stdout);
-}
+}this is wu'demo
