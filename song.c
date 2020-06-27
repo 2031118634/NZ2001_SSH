@@ -225,7 +225,7 @@ void clock_show(char **buf,LRC *head)
 	} 
 }
 //void cartoon()//动画
-
+this is cst'demo
 
 
 
