@@ -1,0 +1,21 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.7	//
+analysis	song.c	/^LRC *analysis(char **buf,LRC *head,int num)$/;"	f	signature:(char **buf,LRC *head,int num)
+clear_screen	console.c	/^void clear_screen(void)$/;"	f	signature:(void)
+clock_show	song.c	/^void clock_show(char **buf,LRC *head)$/;"	f	signature:(char **buf,LRC *head)
+cusor_get_pos	console.c	/^void cusor_get_pos(void)$/;"	f	signature:(void)
+cusor_hide	console.c	/^void cusor_hide(void)$/;"	f	signature:(void)
+cusor_moveto	console.c	/^void cusor_moveto(int x, int y)$/;"	f	signature:(int x, int y)
+cusor_set_pos	console.c	/^void cusor_set_pos(void)$/;"	f	signature:(void)
+cusor_show	console.c	/^void cusor_show(void)$/;"	f	signature:(void)
+main	main.c	/^int main(int argc,char *argv[])$/;"	f	signature:(int argc,char *argv[])
+read_song_file	song.c	/^char *read_song_file()$/;"	f
+set_bg_color	console.c	/^void set_bg_color(int color)$/;"	f	signature:(int color)
+set_fg_color	console.c	/^void set_fg_color(int color)$/;"	f	signature:(int color)
+show_four_lines	song.c	/^void show_four_lines(char **buf)$/;"	f	signature:(char **buf)
+strtok_data	song.c	/^void strtok_data(char **arr,int *num)$/;"	f	signature:(char **arr,int *num)
+total_time	song.c	/^int total_time(LRC *head)$/;"	f	signature:(LRC *head)
